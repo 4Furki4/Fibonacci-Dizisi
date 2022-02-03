@@ -1,0 +1,16 @@
+C:\Users\Furkan Cengiz\Desktop\fibo\bin\Debug\net5.0\fibo.exe
+C:\Users\Furkan Cengiz\Desktop\fibo\bin\Debug\net5.0\fibo.deps.json
+C:\Users\Furkan Cengiz\Desktop\fibo\bin\Debug\net5.0\fibo.runtimeconfig.json
+C:\Users\Furkan Cengiz\Desktop\fibo\bin\Debug\net5.0\fibo.runtimeconfig.dev.json
+C:\Users\Furkan Cengiz\Desktop\fibo\bin\Debug\net5.0\fibo.dll
+C:\Users\Furkan Cengiz\Desktop\fibo\bin\Debug\net5.0\ref\fibo.dll
+C:\Users\Furkan Cengiz\Desktop\fibo\bin\Debug\net5.0\fibo.pdb
+C:\Users\Furkan Cengiz\Desktop\fibo\obj\Debug\net5.0\fibo.csproj.AssemblyReference.cache
+C:\Users\Furkan Cengiz\Desktop\fibo\obj\Debug\net5.0\fibo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Cengiz\Desktop\fibo\obj\Debug\net5.0\fibo.AssemblyInfoInputs.cache
+C:\Users\Furkan Cengiz\Desktop\fibo\obj\Debug\net5.0\fibo.AssemblyInfo.cs
+C:\Users\Furkan Cengiz\Desktop\fibo\obj\Debug\net5.0\fibo.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Cengiz\Desktop\fibo\obj\Debug\net5.0\fibo.dll
+C:\Users\Furkan Cengiz\Desktop\fibo\obj\Debug\net5.0\ref\fibo.dll
+C:\Users\Furkan Cengiz\Desktop\fibo\obj\Debug\net5.0\fibo.pdb
+C:\Users\Furkan Cengiz\Desktop\fibo\obj\Debug\net5.0\fibo.genruntimeconfig.cache
