@@ -5,7 +5,7 @@ namespace fibo
     {
         public void KonsolMesajı()
         {
-            Console.Write("Lütfen fibonacci dizisi için integer değerinde bir genişlik giriniz.");
+            Console.Write("Lütfen fibonacci dizisi için integer değerinde bir genişlik giriniz :");
         }
         public int DiziGenisligiAlma()
         {
@@ -14,7 +14,7 @@ namespace fibo
         }
         public void OrtalamayıYazdırma(int ortalama)
         {
-            Console.WriteLine($"Girdiğiniz genişlikle oluşturulan fibonacci dizisinin ortalaması {ortalama} olarak hesaplanmıştır ");
+            Console.WriteLine($"Girdiğiniz genişlikle oluşturulan fibonacci dizisinin ortalaması {ortalama} olarak hesaplanmıştır.");
         }
     }
 }
